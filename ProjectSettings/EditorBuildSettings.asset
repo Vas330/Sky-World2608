@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/DevScene/Menu.unity
     guid: 834315a1cea352b4eaee63b6d76493a7
   - enabled: 1
-    path: Assets/Scenes/DevScene/Dev.unity
-    guid: 8d179a366e28d35439bc1ff48a387962
+    path: Assets/Scenes/DevScene/level/Dev 1.unity
+    guid: 5aeb2fa824a5e51468f569c238fd9128
   m_configObjects: {}
